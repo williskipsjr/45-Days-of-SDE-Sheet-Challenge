@@ -1,4 +1,4 @@
-# 🚀 Striver's 45 Days #SDESheetChallenge
+# Striver's 45 Days #SDESheetChallenge
 
 45 Days. 191 Problems. One Goal — Become Better Every Day.
 
