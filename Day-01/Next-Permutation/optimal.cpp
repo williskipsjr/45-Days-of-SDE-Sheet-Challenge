@@ -40,6 +40,7 @@ public:
     }
 };
 
+
 // Main function
 int main() {
     // Input array
